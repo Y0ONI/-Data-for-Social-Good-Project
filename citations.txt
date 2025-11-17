@@ -1,0 +1,14 @@
+Who helped me:
+Ayaan(peer)
+Ayaan helped me with my first method which was finding how many players were in each position. I had trouble counting players in each position. Ayaan showed me how to loop through the players and count them correctly. 
+
+Who helped me:
+Mr.Aiello
+Mr.Aiello helped me first debug my code because I kept having an error I was unable to solve. He added the "basketball = basketballArray;"
+takes the array of basketball objects that we just created inside the constructor and stores it in the basketball variable.
+
+Who helped me:
+Ai (chatgpt)
+I used AI to help me write code for the average Age method. I kept getting stuck because it was not printing out the right numbers. 
+and I was unsure on how to solve it. I asked Chatgpt, "can you provide me the steps in order to create a function that will calculate the average age for the age.txt and can you explain how to do it."
+With this it helped me write the code and I then used that to write my next method which was the average points method. 
