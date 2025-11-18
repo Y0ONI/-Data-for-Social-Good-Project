@@ -1,6 +1,3 @@
-Who helped me:
-Ayaan(peer)
-Ayaan helped me with my first method which was finding how many players were in each position. I had trouble counting players in each position. Ayaan showed me how to loop through the players and count them correctly. 
 
 Who helped me:
 Mr.Aiello
