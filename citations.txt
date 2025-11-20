@@ -6,6 +6,6 @@ takes the array of basketball objects that we just created inside the constructo
 
 Who helped me:
 Ai (chatgpt)
-I used AI to help me write code for the average Age method. I kept getting stuck because it was not printing out the right numbers. 
-and I was unsure on how to solve it. I asked Chatgpt, "can you provide me the steps in order to create a function that will calculate the average age for the age.txt and can you explain how to do it."
+I used AI to help fix and recode my averageAge method because the output wasn’t matching the expected values.
+I was unsure on how to solve it. I asked Chatgpt, "can you provide me the steps in order for my function to work that will calculate the average age for the age.txt. Explain the framework."
 With this it helped me write the code and I then used that to write my next method which was the average points method. 
