@@ -86,7 +86,7 @@ private basketball[] basketball;
         totalAge += player.getAge();
     }
     // finds average by dividing total age by number of players
-    double avgAge = (double) totalAge / basketball.length;
+    double avgAge = totalAge / basketball.length;
 
     // prints result
     System.out.println();
@@ -102,7 +102,7 @@ private basketball[] basketball;
     for (basketball player : basketball) {
         totalPoints += player.getAvgLe(); 
     }
-// finds averaage points by dividing the total by length
+// finds average points by dividing the total by length
     double average = totalPoints /basketball.length;
 // prints result
     System.out.println();
