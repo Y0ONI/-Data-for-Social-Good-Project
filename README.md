@@ -15,11 +15,11 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [basketball enthusiast], <br> 
-> I want to [analyze the national basketball association], <br> 
-> so that I can [learn about all the players and their stats throughout the playoffs].
+
+> As an basketball enthusiast, <br> 
+> I want to analyze the national basketball association, <br> 
+> so that I can learn about all the players and their stats throughout the playoffs.
 
 ## Dataset 
 
